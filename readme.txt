@@ -4,4 +4,6 @@ Git is free sofware distributed under the GPL
 
 Git has a mutable index called stage
 
-Git tracks changes of fi   .
+Git tracks changes of file.
+
+today I'm learn how to use github and I'm very happy
