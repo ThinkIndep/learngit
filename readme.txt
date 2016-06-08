@@ -7,3 +7,5 @@ Git has a mutable index called stage
 Git tracks changes of file.
 
 today I'm learn how to use github and I'm very happy
+
+Creating a new branch is quick AND simple
