@@ -8,4 +8,6 @@ Git tracks changes of file.
 
 today I'm learn how to use github and I'm very happy
 
-Creating a new branch is quick & simple
+
+Creating a new branch is quick and simple
+
